@@ -5,13 +5,8 @@
 Eclipse GlassFish is a [Jakarta EE compatible implementation](compatibility)
 sponsored by the Eclipse Foundation.
 
-
-
 ## Latest News
 
-
-<<<<<<< HEAD
-=======
 ## April 14, 2021 -- Eclipse GlassFish 6.1 RC1 Available
 
 This is the first release candidate of Eclipse GlassFish 6.1 and is available for [download](https://glassfish.org/download). Eclipse GlassFish 6.1 is targetted to be a Compatible Implementation of Jakarta EE 9.1. Note this release requires JDK 11. The final release is scheduled to coincide with the final release of Jakarta EE 9.1.
@@ -26,20 +21,17 @@ of the Jakarta EE 9 Platform and Web Profile specifications. Download links are 
 This is the first release candidate of Eclipse GlassFish 6.0 and is available for [download](https://glassfish.org/download).
 This first Release Candidate is functionally complete and is the first version to pass the in progress Jakarta EE 9 Platform CTS and standalone TCKs for both Full Platform and Web Platform. Further development will be carried out before final release but no major functinal changes will be made. 
 
->>>>>>> 5fe653ce144139c2a40cd0e19bfabe3f0b03c002
 ### June 23, 2020 -- Eclipse GlassFish 6.0 Milestone 1 is released
 
 This release contains new Jakarta EE 9 compatible APIs. This is an early alpha release of Eclipse GlassFish 6. See the download page to get your copy.
 
-<<<<<<< HEAD
 ### September 23, 2019 -- Eclipse GlassFish 5.1 is certified compatible with Eclipse Jakarta EE 8
 
 Eclipse GlassFish 5.1 was certified as part of the release of the Jakarta EE 8 specification. This certification was completed without requiring any changes to Eclipse GlassFish 5.1, released in January of this same year.
-=======
+
 ### September 10, 2019 -- Eclipse GlassFish 5.1 is certified compatible with Eclipse Jakarta EE 8
 
 Eclipse GlassFish 5.1 was certified as part of the release of the Jakarta EE 8 specification. This certification was completed without requiring any changes to Eclipse GlassFish 5.1, released in January of this same year. Eclipse GlassFish 5.1 is compatible with both Jakarta EE 8 and also Java EE 8.
->>>>>>> 5fe653ce144139c2a40cd0e19bfabe3f0b03c002
 
 ### January 28, 2019 -- Eclipse GlassFish 5.1 is released
 
